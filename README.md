@@ -14,4 +14,4 @@ A implementação de dados é feita com os seguinte comandos de exemplos a baixo
 => INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 
-#Quantos episódio foi lançado entre 11 de Abril de 2014 e 12 de junho de 2014?
+#Quantos episódio na série GameOFThoner foi lançado entre 11 de Abril de 2014 e 12 de junho de 2014?
